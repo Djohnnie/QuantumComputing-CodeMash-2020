@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumComputingQSharp.Introduction", "QuantumComputingQSharp.Introduction\QuantumComputingQSharp.Introduction.csproj", "{EEB31F94-A47A-4A61-868D-6B2D053E9D12}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Introduction", "1. Introduction", "{62FC7743-798D-46B9-AC32-6F90EE29D435}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Superposition", "2. Superposition", "{B958B319-1F6D-40AF-9426-7A4F079AB2CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Entanglement", "3. Entanglement", "{6D64003E-9542-42DF-9BD4-FF33182E7354}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Deutch", "4. Deutch", "{9DECA562-BC09-4958-8761-AF5EA4E16822}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Teleportation", "5. Teleportation", "{60FBD560-C68E-4F1B-A8D2-89C0CA1BA840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumComputingQSharp.Superposition", "QuantumComputingQSharp.Superposition\QuantumComputingQSharp.Superposition.csproj", "{6A318C3D-CF5B-4589-96B0-3CC5A25A0CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumComputingQSharp.Entanglement", "QuantumComputingQSharp.Entanglement\QuantumComputingQSharp.Entanglement.csproj", "{D7FBE5CE-F149-48DC-8919-7EE792248FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumComputingQSharp.Deutch", "QuantumComputingQSharp.Deutch\QuantumComputingQSharp.Deutch.csproj", "{F33556CC-D62E-4715-95A1-10D36581D8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumComputingQSharp.Teleportation", "QuantumComputingQSharp.Teleportation\QuantumComputingQSharp.Teleportation.csproj", "{290350D0-757D-49DE-A904-6726F4E96CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB31F94-A47A-4A61-868D-6B2D053E9D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB31F94-A47A-4A61-868D-6B2D053E9D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB31F94-A47A-4A61-868D-6B2D053E9D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB31F94-A47A-4A61-868D-6B2D053E9D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A318C3D-CF5B-4589-96B0-3CC5A25A0CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A318C3D-CF5B-4589-96B0-3CC5A25A0CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A318C3D-CF5B-4589-96B0-3CC5A25A0CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A318C3D-CF5B-4589-96B0-3CC5A25A0CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7FBE5CE-F149-48DC-8919-7EE792248FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FBE5CE-F149-48DC-8919-7EE792248FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FBE5CE-F149-48DC-8919-7EE792248FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FBE5CE-F149-48DC-8919-7EE792248FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33556CC-D62E-4715-95A1-10D36581D8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33556CC-D62E-4715-95A1-10D36581D8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33556CC-D62E-4715-95A1-10D36581D8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33556CC-D62E-4715-95A1-10D36581D8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290350D0-757D-49DE-A904-6726F4E96CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290350D0-757D-49DE-A904-6726F4E96CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290350D0-757D-49DE-A904-6726F4E96CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290350D0-757D-49DE-A904-6726F4E96CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EEB31F94-A47A-4A61-868D-6B2D053E9D12} = {62FC7743-798D-46B9-AC32-6F90EE29D435}
+		{6A318C3D-CF5B-4589-96B0-3CC5A25A0CB5} = {B958B319-1F6D-40AF-9426-7A4F079AB2CA}
+		{D7FBE5CE-F149-48DC-8919-7EE792248FE4} = {6D64003E-9542-42DF-9BD4-FF33182E7354}
+		{F33556CC-D62E-4715-95A1-10D36581D8D4} = {9DECA562-BC09-4958-8761-AF5EA4E16822}
+		{290350D0-757D-49DE-A904-6726F4E96CBD} = {60FBD560-C68E-4F1B-A8D2-89C0CA1BA840}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9507BDB7-7F3E-4C03-A771-606969CE1A73}
+	EndGlobalSection
+EndGlobal
